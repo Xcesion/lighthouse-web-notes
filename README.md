@@ -3,4 +3,4 @@
 ###### This is an H6 header (smallest)
 
 ## Summary 
-This repository contains all of the notes taken by Frank Shen for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Frank Shen](https://github.com/Xcesion) for the [Lighthouse Labs Web Development Bootcamp](https://github.com/Xcesion/lighthouse-web-notes).
